@@ -13,6 +13,7 @@ gem "puma", ">= 5.0"
 
 # self made
 gem 'faker'
+gem 'devise-jwt'
 
 # Use Kredis to get higher-level data types in Redis [https://github.com/rails/kredis]
 # gem "kredis"
